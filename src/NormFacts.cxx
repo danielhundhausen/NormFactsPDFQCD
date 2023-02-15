@@ -4,7 +4,7 @@
 #include "UHH2/core/include/AnalysisModule.h"
 #include "UHH2/core/include/Event.h"
 
-#include "UHH2/2HDM/include/NormalisationTools.h"
+#include "UHH2/NormFactsQCDPDF/include/NormalisationTools.h"
 
 
 using namespace std;
